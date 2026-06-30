@@ -9,7 +9,7 @@ trigger: ["生成CRUD", "生成接口", "生成管理页面"]
 
 ## 功能说明
 根据指定的 Prisma 模型，自动生成标准的管理后台 CRUD 代码：
-1. API Routes（5 个）：GET 列表、GET 详情、POST 创建、PUT 更新、DELETE 删除
+1. 设置API Routes（5 个）：GET 列表、GET 详情、POST 创建、PUT 更新、DELETE 删除
 2. 前端页面：数据列表页、创建/编辑表单
 
 ## 执行步骤
